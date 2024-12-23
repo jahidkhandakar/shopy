@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337047029733",
+    "project_id": "shopy-125aa",
+    "storage_bucket": "shopy-125aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337047029733:android:a4ba719cb455cf476f110c",
+        "android_client_info": {
+          "package_name": "com.example.shopy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvgKzV6tBvNsTvDR8SUycI63Kfa41X58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
